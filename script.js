@@ -19,7 +19,7 @@ function generatePassword(){
   const wantuppercase=confirm('would you like uppercase')
   const wantlowercase=confirm('would you like lowercase')
 
-  console.log('this is a message to sandeep',passwordlength,wantnum,wantsym,wantuppercase,wantlowercase)
+  console.log('this is a message to sandeep!!!!!',passwordlength,wantnum,wantsym,wantuppercase,wantlowercase)
 }
 
 // Write password to the #password input
